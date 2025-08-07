@@ -1,46 +1,110 @@
-{
-  "Colombia": {
-    "es": {
-      "sectores": {
-        "Hoteles": [
-          {
-            "nombre": "Hotel Caribe Cartagena",
-            "promo": "🏖️ 3 noches + desayuno incluido",
-            "imagen": "https://example.com/img/hotel-caribe.jpg",
-            "enlace": "/detalle-caribe"
-          }
-        ],
-        "Pizzerías": [
-          {
-            "nombre": "Pizza Express Barranquilla",
-            "promo": "🍕 2x1 todos los miércoles",
-            "imagen": "https://example.com/img/pizza-express.jpg",
-            "enlace": "/detalle-pizza-express"
-          }
-        ]
+[
+  {
+    "country": "US",
+    "lang": "en",
+    "items": [
+      {
+        "title": "Miami Beach Resort",
+        "description": "Stay 3 nights, pay 2",
+        "icon": "🌴",
+        "url": "https://example.com/miami-en"
+      },
+      {
+        "title": "Joe's Pizza New York",
+        "description": "Classic slice for $2.99",
+        "icon": "🍕",
+        "url": "https://example.com/pizza-en"
       }
-    }
+    ]
   },
-  "United States": {
-    "en": {
-      "sectores": {
-        "Hotels": [
-          {
-            "nombre": "Miami Beach Resort",
-            "promo": "🌴 Stay 3 nights, pay 2",
-            "imagen": "https://example.com/img/miami-resort.jpg",
-            "enlace": "/detail-miami"
-          }
-        ],
-        "Pizzerias": [
-          {
-            "nombre": "Joe's Pizza New York",
-            "promo": "🍕 Classic slice for $2.99",
-            "imagen": "https://example.com/img/joes-pizza.jpg",
-            "enlace": "/detail-joes"
-          }
-        ]
+  {
+    "country": "US",
+    "lang": "es",
+    "items": [
+      {
+        "title": "Resort Miami Beach",
+        "description": "3 noches por el precio de 2",
+        "icon": "🌴",
+        "url": "https://example.com/miami-es"
+      },
+      {
+        "title": "Joe's Pizza Nueva York",
+        "description": "Porción clásica a $2.99",
+        "icon": "🍕",
+        "url": "https://example.com/pizza-es"
       }
-    }
+    ]
+  },
+  {
+    "country": "CO",
+    "lang": "es",
+    "items": [
+      {
+        "title": "Hotel Cartagena Playa",
+        "description": "2x1 en estadía de fin de semana",
+        "icon": "🏖️",
+        "url": "https://example.com/cartagena"
+      },
+      {
+        "title": "Pizza Express Bogotá",
+        "description": "Combo familiar desde $19.900",
+        "icon": "🍕",
+        "url": "https://example.com/bogota"
+      }
+    ]
+  },
+  {
+    "country": "DE",
+    "lang": "de",
+    "items": [
+      {
+        "title": "Miami Beach Resort",
+        "description": "3 Nächte bleiben, nur 2 bezahlen",
+        "icon": "🌴",
+        "url": "https://example.com/miami-de"
+      },
+      {
+        "title": "Joe's Pizza New York",
+        "description": "Klassisches Stück für $2.99",
+        "icon": "🍕",
+        "url": "https://example.com/pizza-de"
+      }
+    ]
+  },
+  {
+    "country": "FR",
+    "lang": "fr",
+    "items": [
+      {
+        "title": "Miami Beach Resort",
+        "description": "3 nuits pour le prix de 2",
+        "icon": "🌴",
+        "url": "https://example.com/miami-fr"
+      },
+      {
+        "title": "Joe's Pizza New York",
+        "description": "Part classique à $2.99",
+        "icon": "🍕",
+        "url": "https://example.com/pizza-fr"
+      }
+    ]
+  },
+  {
+    "country": "IT",
+    "lang": "it",
+    "items": [
+      {
+        "title": "Miami Beach Resort",
+        "description": "3 notti al prezzo di 2",
+        "icon": "🌴",
+        "url": "https://example.com/miami-it"
+      },
+      {
+        "title": "Joe's Pizza New York",
+        "description": "Fetta classica a $2.99",
+        "icon": "🍕",
+        "url": "https://example.com/pizza-it"
+      }
+    ]
   }
-}
+]
