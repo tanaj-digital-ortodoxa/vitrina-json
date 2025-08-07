@@ -1,0 +1,46 @@
+{
+  "Colombia": {
+    "es": {
+      "sectores": {
+        "Hoteles": [
+          {
+            "nombre": "Hotel Caribe Cartagena",
+            "promo": "🏖️ 3 noches + desayuno incluido",
+            "imagen": "https://example.com/img/hotel-caribe.jpg",
+            "enlace": "/detalle-caribe"
+          }
+        ],
+        "Pizzerías": [
+          {
+            "nombre": "Pizza Express Barranquilla",
+            "promo": "🍕 2x1 todos los miércoles",
+            "imagen": "https://example.com/img/pizza-express.jpg",
+            "enlace": "/detalle-pizza-express"
+          }
+        ]
+      }
+    }
+  },
+  "United States": {
+    "en": {
+      "sectores": {
+        "Hotels": [
+          {
+            "nombre": "Miami Beach Resort",
+            "promo": "🌴 Stay 3 nights, pay 2",
+            "imagen": "https://example.com/img/miami-resort.jpg",
+            "enlace": "/detail-miami"
+          }
+        ],
+        "Pizzerias": [
+          {
+            "nombre": "Joe's Pizza New York",
+            "promo": "🍕 Classic slice for $2.99",
+            "imagen": "https://example.com/img/joes-pizza.jpg",
+            "enlace": "/detail-joes"
+          }
+        ]
+      }
+    }
+  }
+}
