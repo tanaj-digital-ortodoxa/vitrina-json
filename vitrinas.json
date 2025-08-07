@@ -4,106 +4,28 @@
     "lang": "en",
     "items": [
       {
-        "title": "Miami Beach Resort",
-        "description": "Stay 3 nights, pay 2",
-        "icon": "🌴",
-        "url": "https://example.com/miami-en"
+        "icon": "🍕",
+        "title": "Pizzas Joe",
+        "description": "Sabor auténtico desde Zapopán",
+        "url": "https://www.ubereats.com/mx/store/pizzas-joe/ZfrphlugTGm4-Fna6_TL3A"
       },
       {
-        "title": "Joe's Pizza New York",
-        "description": "Classic slice for $2.99",
-        "icon": "🍕",
-        "url": "https://example.com/pizza-en"
-      }
-    ]
-  },
-  {
-    "country": "US",
-    "lang": "es",
-    "items": [
-      {
-        "title": "Resort Miami Beach",
-        "description": "3 noches por el precio de 2",
-        "icon": "🌴",
-        "url": "https://example.com/miami-es"
+        "icon": "📰",
+        "title": "Digital News",
+        "description": "Noticias globales en tiempo real",
+        "url": "https://digitalnews.example.com"
       },
       {
-        "title": "Joe's Pizza Nueva York",
-        "description": "Porción clásica a $2.99",
-        "icon": "🍕",
-        "url": "https://example.com/pizza-es"
-      }
-    ]
-  },
-  {
-    "country": "CO",
-    "lang": "es",
-    "items": [
-      {
-        "title": "Hotel Cartagena Playa",
-        "description": "2x1 en estadía de fin de semana",
-        "icon": "🏖️",
-        "url": "https://example.com/cartagena"
+        "icon": "🎙️",
+        "title": "WIR ON AIR",
+        "description": "Radio mundial integrada",
+        "url": "https://wironair.example.com"
       },
       {
-        "title": "Pizza Express Bogotá",
-        "description": "Combo familiar desde $19.900",
-        "icon": "🍕",
-        "url": "https://example.com/bogota"
-      }
-    ]
-  },
-  {
-    "country": "DE",
-    "lang": "de",
-    "items": [
-      {
-        "title": "Miami Beach Resort",
-        "description": "3 Nächte bleiben, nur 2 bezahlen",
-        "icon": "🌴",
-        "url": "https://example.com/miami-de"
-      },
-      {
-        "title": "Joe's Pizza New York",
-        "description": "Klassisches Stück für $2.99",
-        "icon": "🍕",
-        "url": "https://example.com/pizza-de"
-      }
-    ]
-  },
-  {
-    "country": "FR",
-    "lang": "fr",
-    "items": [
-      {
-        "title": "Miami Beach Resort",
-        "description": "3 nuits pour le prix de 2",
-        "icon": "🌴",
-        "url": "https://example.com/miami-fr"
-      },
-      {
-        "title": "Joe's Pizza New York",
-        "description": "Part classique à $2.99",
-        "icon": "🍕",
-        "url": "https://example.com/pizza-fr"
-      }
-    ]
-  },
-  {
-    "country": "IT",
-    "lang": "it",
-    "items": [
-      {
-        "title": "Miami Beach Resort",
-        "description": "3 notti al prezzo di 2",
-        "icon": "🌴",
-        "url": "https://example.com/miami-it"
-      },
-      {
-        "title": "Joe's Pizza New York",
-        "description": "Fetta classica a $2.99",
-        "icon": "🍕",
-        "url": "https://example.com/pizza-it"
+        "icon": "🛍️",
+        "title": "USA Deal Curated",
+        "description": "Ofertas seleccionadas para ti",
+        "url": "https://usadeal.example.com"
       }
     ]
   }
